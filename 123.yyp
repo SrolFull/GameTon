@@ -135,6 +135,22 @@
             }
         },
         {
+            "Key": "42c5b376-b795-48b3-b89c-cf9f47e7058f",
+            "Value": {
+                "id": "f61c7a8a-3b1a-4fd0-b3af-baaf155eae5e",
+                "resourcePath": "objects\\Wall\\Wall.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "46acba45-6a5e-4ea1-a6da-999b5776b4d5",
+            "Value": {
+                "id": "5ac29435-7358-4ca4-b3c9-1a432603744c",
+                "resourcePath": "rooms\\DamnHell\\DamnHell.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "552ba31f-7fd3-4d2e-b847-f52c81d2062d",
             "Value": {
                 "id": "5a65f23b-b414-4b55-a6e5-a09084bc13ed",
@@ -244,6 +260,14 @@
                 "id": "50bc1040-88c5-4b7b-a2e0-31d367714dd3",
                 "resourcePath": "views\\c9f81882-85e1-4b38-aa94-2a410cef369d.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "ca7de566-71d3-4d8c-b1a7-df9e42f4ad21",
+            "Value": {
+                "id": "328bcef3-1cf3-4803-8c82-1cd82c65d221",
+                "resourcePath": "sprites\\Wall_spr\\Wall_spr.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
